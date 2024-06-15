@@ -29,12 +29,10 @@ A simple weather application built using React.js that fetches weather informati
 
 2.**Install dependencies**
     ```bash
-   npm install
-3.**REACT_APP_API_KEY=your_openweathermap_api_key(in .env file)**
-4.**Start the App**
-     ```bash
-      npm run dev
-
-4.```
+      npm install
+   
+3.**Start the app**
+   ```bash
+    npm run dev
 
 
