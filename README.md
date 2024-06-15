@@ -1,6 +1,6 @@
 # Simple React Weather App
 
-![Weather App](Glimpse.jpeg)
+![Weather App](Glimse.jpeg)
 
 A simple weather application built using React.js that fetches weather information from the [OpenWeatherMap API](https://openweathermap.org/current).
 
@@ -26,8 +26,15 @@ A simple weather application built using React.js that fetches weather informati
    ```bash
    git clone https://github.com/your/repository.git
    cd repository-folder
-2.npm install
-3.REACT_APP_API_KEY=your_openweathermap_api_key(in .env file)
-4.npm run dev to start the react app.
+
+2.**Install dependencies**
+    ```bash
+   npm install
+3.**REACT_APP_API_KEY=your_openweathermap_api_key(in .env file)**
+4.**Start the App**
+     ```bash
+      npm run dev
+
+4.```
 
 
