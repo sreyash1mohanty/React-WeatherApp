@@ -1,0 +1,11 @@
+.SearchBox {
+    text-align: center;
+    position: fixed;
+    top: 0;
+    transform: translateX(+27%);
+    
+}
+.search-d{
+    background-color: rgb(236, 122, 122);
+    color: black;
+}

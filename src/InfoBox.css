@@ -1,0 +1,15 @@
+.InfoBoxContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-top: 120px;
+}
+
+.InfoBox {
+    text-align: center;
+    margin-top: 50px;
+}
+h1{
+    transform: translateX(-9%);
+}
