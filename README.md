@@ -20,18 +20,16 @@ A simple weather application built using React.js that fetches weather informati
 ## User Guide
 
 ### Setup Instructions
-
+(make sure you install styled components and other font requirements from material UI)
 1. **Clone the repository**
 
    ```bash
    git clone https://github.com/your/repository.git
    cd repository-folder
-
-2.**Install dependencies**
+2. **Install Dependencies**
     ```bash
-      npm install
-   
-3.**Start the app**
+    npm install
+3.**Start the react-app**
    ```bash
     npm run dev
 
